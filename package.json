@@ -1,12 +1,12 @@
 {
   "name": "todo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
-    "ng": "todo/node_modules/.bin/ng",
-    "start": "todo/node_modules/.bin/ng serve",
-    "build": "todo/node_modules/.bin/ng build",
-    "watch": "todo/node_modules/.bin/ng build --watch --configuration development",
-    "test": "todo/node_modules/.bin/ng test"
+    "ng": "node_modules/.bin/ng",
+    "start": "node_modules/.bin/ng serve",
+    "build": "node_modules/.bin/ng build",
+    "watch": "node_modules/.bin/ng build --watch --configuration development",
+    "test": "node_modules/.bin/ng test"
   },
   "private": true,
   "dependencies": {
